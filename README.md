@@ -6,7 +6,7 @@ I'm a student Web Developer based in Padua, Italy
 ## About Me
 
 - 🏢 I'm currently learning web development at **Boolean Careers**
-- ⚙️ I use daily: `.html` `.css` `.sass` `.js` `.vue` `.php`
-- 👀 I’m interested in **Trekking** / **Photography** / **Running**
+- ⚙️ I use daily: `.html` `.css` `.sass` `.js` `.vue` `.php` `.blade.php`
+- 👀 I’m interested in **Trekking** / **Photography** / **Running** / **Cycling**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/andrea-salvalaggio)
 - ⚡️ Fun fact: I'm a huge fan of Apple's products
