@@ -9,4 +9,4 @@ I'm a student Web Developer based in Padua, Italy
 - ⚙️ I use daily: `.html` `.css` `.sass` `.js` `.vue` `.php` `.blade.php`
 - 👀 I’m interested in **Trekking** / **Photography** / **Running** / **Cycling**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/andrea-salvalaggio)
-- ⚡️ Fun fact: I'm a huge fan of Apple's products
+- ⚡️ Fun fact: I'm a huge fan of minimal design
