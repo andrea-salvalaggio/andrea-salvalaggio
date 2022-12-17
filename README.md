@@ -1,6 +1,6 @@
 # Hi there, I'm Andrea 👋
 
-I'm a student Web Developer based in Padua, Italy
+I'm a Jr. Full Stack Web Developer based in Padua, Italy
 
 
 ## About Me
