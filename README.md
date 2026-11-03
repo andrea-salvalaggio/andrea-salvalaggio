@@ -1,6 +1,6 @@
 # Hi there, I'm Andrea 👋
 
-I'm a Web & Frontend Designer based in Padua, Italy
+I'm a Web & Frontend Developer based in Padua, Italy
 
 
 ## About Me
